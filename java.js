@@ -30,5 +30,10 @@ const getRemainingTime = deadline => {
     }, 1000)
   };
   
-  countdown('jul 1 2020 10:00:00 GMT-0500', 'clock', '¡Ya empezó!');
+<<<<<<< HEAD
+  countdown('jul 1 2020 10:00:00 GMT+0100', 'clock', '¡Ya empezó!');
   
+=======
+  countdown('jun 31 2020 00:00:00 GMT+0100', 'clock', '¡Ya empezó!');
+  
+>>>>>>> 3c947d5e064b5dc7781fe8c3138ce6f8e5556901
